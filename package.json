@@ -1,0 +1,26 @@
+{
+  "name": "jquery-nested",
+  "version": "1.0.1",
+  "description": "jQuery Nested plugin for a gap-free, multi-column grid layout experience",
+  "main": "jquery.nested.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studionone/Nested.git"
+  },
+  "keywords": [
+    "jquery",
+    "nested",
+    "grid",
+    "jquery-nested",
+    "plugin"
+  ],
+  "author": "Josh Girvin <josh@jgirvin.com> (http://jgirvin.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studionone/Nested/issues"
+  },
+  "homepage": "https://github.com/studionone/Nested#readme"
+}
